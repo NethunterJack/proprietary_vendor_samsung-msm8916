@@ -18,4 +18,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5ltectc/proprietary/lib/hw/sensors.vendor.msm8916.so:system/lib/hw/sensors.vendor.msm8916.so \
     vendor/samsung/a5ltectc/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/a5ltectc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/a5ltectc/proprietary/vendor/firmware/libpn548ad_fw.so:system/vendor/firmware/libpn548ad_fw.so
+    vendor/samsung/a5ltectc/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
